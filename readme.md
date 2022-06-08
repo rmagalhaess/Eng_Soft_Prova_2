@@ -1,4 +1,4 @@
-*Tabela Principal com os nomes e contas que serão utilizados:*
+#Tabela Principal com os nomes e contas que serão utilizados:
 
 | **Estudante**                     | **Conta Pessoal** | **Convidar**     |
 | --------------------------------- | ----------------- | ---------------- |
